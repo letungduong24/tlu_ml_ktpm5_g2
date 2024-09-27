@@ -6,3 +6,4 @@ instance/
 .env
 .vscode/
 .idea/
+.venv/
